@@ -11,7 +11,7 @@ class AssessmentViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("試し")
         // Do any additional setup after loading the view.
     }
     
